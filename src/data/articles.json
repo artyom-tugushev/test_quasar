@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1111",
+    "title": "We are processing your request...",
+    "publicationDate": "2023-10-08T09:17:27.013Z",
+    "imageUrl": "https://i.ibb.co/Jk8FMMp/unsplash-Oqtaf-YT5k-Tw.jpg",
+    "description": "<p>Thank you for your patience! We're currently processing your request and will notify you as soon as the process is complete.</p><p>While we understand that waiting can be inconvenient, rest assured that our team is working diligently to ensure that your request is handled with care and efficiency. We aim to provide you with the best possible experience, and your satisfaction is our top priority.</p><p>If you have any further inquiries or need immediate assistance, please feel free to reach out to our support team. Meanwhile, here's some useful information about our services that you can explore while you wait.</p>",
+    "seen": false
+  },
+  {
+    "id": "2222",
+    "title": "What is Lorem Ipsum...",
+    "publicationDate": "2023-10-07T09:17:27.013Z",
+    "imageUrl": "https://i.ibb.co/VCb4zLk/unsplash-SYTO3xs06f-U-1.jpg",
+    "description": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p>Over the centuries, Lorem Ipsum has evolved into the go-to placeholder text for typesetters and designers. Whether it’s a brochure, a website mockup, or a new book cover design, Lorem Ipsum allows creators to focus on the layout and typography without the distraction of meaningful content.</p><p>It’s still used widely today to demonstrate the visual form of a document without relying on meaningful content. Its neutrality makes it perfect for showing off design features in their purest form.</p>",
+    "seen": true
+  },
+  {
+    "id": "3333",
+    "title": "Why do we use it...",
+    "publicationDate": "2023-10-07T05:17:27.013Z",
+    "imageUrl": "https://i.ibb.co/DK9qHp0/daafc501e01c748fc88d582e7dd114de.jpg",
+    "description": "<p>The use of Lorem Ipsum allows designers and developers to focus on the layout and visual elements of their projects without being distracted by content. In a creative process, focusing too early on the text can shift attention away from design aspects like typography, spacing, and overall balance.</p><p>Lorem Ipsum is widely adopted because it replicates the look of a natural language, even though it’s essentially nonsense. This helps keep the flow of a design more realistic while avoiding the potential biases or distractions that might arise from real content.</p><p>It provides a neutral, readable placeholder that helps stakeholders visualize the end result without getting caught up in specific wording or details too early in the process.</p>",
+    "seen": false
+  },
+  {
+    "id": "4444",
+    "title": "Where does it come from...",
+    "publicationDate": "2023-10-06T04:17:27.013Z",
+    "imageUrl": "https://i.ibb.co/3k12hXc/i-Phone-X-in-Hand-Mockup-2.jpg",
+    "description": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. Its roots trace back to a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p><p>The passage comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, a famous Roman statesman and philosopher. The text discusses the theory of ethics, presenting a philosophical argument on the nature of pleasure and pain.</p><p>Over time, printers and typesetters began using sections of this text as a placeholder to demonstrate fonts, layouts, and designs. This historical context adds a bit of charm to Lorem Ipsum, knowing that it originates from a philosophical work rather than a simple random string of letters.</p>",
+    "seen": false
+  }
+]
