@@ -1,10 +1,12 @@
 <template>
   <q-layout>
     <q-page-container>
-      <div class="flex q-px-md q-my-xl">
+      <div class="flex justify-between q-px-md q-my-xl">
         <img src="../assets/back-button.svg" />
-        <div class="q-ml-auto q-mr-xl text-subtitle1">Notifications</div>
-        <div @click="markAllRead()" class="text-subtitle1">Mark all read</div>
+        <div class="text-subtitle1 q-mx-auto">Notifications</div>
+        <div @click="markAllRead()" class="mark-all-button text-subtitle1">
+          Mark all read
+        </div>
       </div>
       <div class="text-h6 q-px-lg q-mb-md">Featured</div>
       <q-scroll-area class="q-mb-md" style="height: 300px; width: 100%">
@@ -74,6 +76,10 @@ const goToPost = (id: string) => {
 </script>
 
 <style lang="scss" scoped>
+.mark-all-button {
+  position: absolute;
+  right: 16px;
+}
 .post-scroll {
   position: relative;
   background-size: cover;
